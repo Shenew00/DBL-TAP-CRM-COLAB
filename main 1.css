@@ -1,10 +1,80 @@
-h1{
-
-font-size: 40px;
-font-family:inherit
+h1 {
+    font-size: 80px;
+    font-family: inherit;
+    font-stretch: extra-condensed;
+    text-align: left;
+    margin-left: 10%;
 
 }
 
 .input-icons i {
-    position: absolute
+    width: 100;
+    margin-bottom: 10px;
+    text-align: left;
+
+}
+
+
+.icon {
+    padding: 10px;
+    color: black
+}
+
+.input-field {
+    width: 30%;
+    min-height: 45px;
+    padding: 10px;
+    padding-left: 40;
+    text-align: center;
+    border-radius: 80px;
+    border-color: whitesmoke;
+
+
+}
+
+
+.input-icons i {
+    position: absolute;
+}
+
+
+button {
+    width: 240px;
+    min-height: 55px;
+    border-radius: 81px;
+    color: antiquewhite;
+    background-color: #284cdd;
+    border-color: none;
+    margin-left: 10%;
+}
+
+p {
+    margin-left: 11%;
+
+}
+
+span {
+    display: inline-block;
+    padding: 4px;
+    margin-left: 50px
+}
+
+
+
+.flexbox-right-side {
+    dislay: flex;
+    width: 50;
+    margin-right: 300px;
+    position: absolute;
+    right: 0;
+
+}
+
+#woman at desk image {
+    flex: float;
+    padding-top: 50px;
+    height: 700px;
+    width: 600px;
+    padding-bottom: 75px;
+
 }
