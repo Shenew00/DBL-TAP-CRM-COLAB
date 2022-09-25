@@ -1,0 +1,105 @@
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: fit-content;
+    display: block;
+}
+
+.image1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.image2 {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 30%;
+    margin-left: 85px;
+    margin-top: 250px;
+}
+
+.card-body {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    color: white;
+    text-align: center;
+}
+
+.button {
+    border-radius: 45%;
+    border-color: white;
+    border-width: 2px;
+    margin-right: 800px;
+    width: 15%;
+    margin-top: 10px;
+}
+
+.signin {
+    padding-top: 8%;
+    color: black;
+    position: relative;
+    margin-left: 850px;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    margin-right: 800px;
+}
+
+.card-title {
+    margin-right: 800px;
+}
+
+.user {
+    display: fill;
+    margin-bottom: 65%;
+    margin-left: 800px;
+    width: 30%;
+    position: relative;
+}
+
+.button2 {
+    border-radius: 45%;
+    border-color: white;
+    border-width: 2px;
+    width: 15%;
+    position: relative;
+    margin-left: 900px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.container {
+    width: 100%;
+    display: contents;
+}
+.socialpl{
+    position: relative;
+    margin-left: 875px;
+    padding-top: 10px;
+}
+
+.fb{
+    position: relative;
+    margin-left: 950px;
+    margin-top: 20px;
+}
+.tw{
+    position: relative;   
+    margin-top: 20px;
+}
+.go{
+    position: relative;    
+    margin-top: 20px;
+
+}
+.li{
+    position: relative;
+    margin-top: 20px;
+}
