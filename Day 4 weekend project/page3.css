@@ -1,0 +1,40 @@
+body, html{
+    height:100%;
+    margin: 0px;
+    background-color: white;
+}
+main{
+    overflow: auto;
+}
+.works-container{
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 40%;
+    margin: auto;
+}
+.para-container{
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 40%;
+    margin: 0 auto;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+hr{
+    width: 50%;
+}
+.list1{
+    display: flex;
+    justify-content: space-between;
+
+}
